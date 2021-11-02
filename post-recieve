@@ -1,0 +1,10 @@
+#!/bin/sh
+
+repo_name="my-project"
+repo_path="/data/git/my-project.git"
+script_path="/data/git/my-project.git/hooks"
+
+while read oldrev newrev ref
+do
+    python3 $script_path/send-commit.py $repo_name $repo_path $ref $oldrev $newrev
+done
