@@ -1,8 +1,8 @@
 #!/bin/sh
 
-repo_name="my-project"
-repo_path="/data/git/my-project.git"
-script_path="/data/git/my-project.git/hooks"
+repo_name="project"
+repo_path="/data/git/project.git"
+script_path="/data"
 
 while read oldrev newrev ref
 do
