@@ -13,8 +13,6 @@
 
 应用名称为：Git，鉴权方式为：Client Credentials，权限：只需要将“开发”设置为读写即可。
 
-![配置应用](https://z3.ax1x.com/2021/11/03/IAzJTe.jpg)
-
 #### 拷贝凭据
 
 回到列表页面，鼠标悬停在ClientId和Secret上，然后点击“点击复制”将ClientId和Secret拷贝出来备用。
