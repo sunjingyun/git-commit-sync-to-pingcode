@@ -2,18 +2,18 @@
 
 ### 效果展示:
 
-![commit关联PingCode工作项](https://imgtu.com/i/IAjsw4)
+![commit关联PingCode工作项](https://z3.ax1x.com/2021/11/03/IAzFyV.jpg)
 
 ### 配置PingCode的权限
 #### 新建凭据
 
 进入PingCode的企业后台->凭据管理->新建应用
 
-![新建应用](https://imgtu.com/i/IAxVPA)
+![新建应用](https://z3.ax1x.com/2021/11/03/IAzuWR.jpg)
 
 应用名称为：Git，鉴权方式为：Client Credentials，权限：只需要将“开发”设置为读写即可。
 
-![配置应用](https://imgtu.com/i/IAxY2q)
+![配置应用](https://z3.ax1x.com/2021/11/03/IAzJTe.jpg)
 
 #### 拷贝凭据
 
